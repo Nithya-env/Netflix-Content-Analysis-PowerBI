@@ -20,6 +20,12 @@ This project focuses on analyzing Netflix content data using Microsoft Power BI.
 ## Project Objective
 To explore Netflix content trends and transform raw data into meaningful business insights through an interactive Power BI dashboard.
 
-## Dashboard Preview
+## Project Files
 
-![Netflix Dashboard](Netflix-Dashboard.png)
+Netflix_Project.pbix – Complete Power BI dashboard.
+
+Page1.png – Overview Dashboard.
+
+Page2.png – Content Analysis.
+
+Page3.png – Global Insights.
